@@ -1,5 +1,6 @@
 # Calculator-with-befunge
-This is just a little fun calculator with befunge 93.
+This is just a little fun calculator with befunge 93.<br />
+You can run this code at befunge 93 interpreters. I use [this interpreter](https://qiao.github.io/javascript-playground/visual-befunge93-interpreter/) for my own.
 
 
 ## Contact me 
